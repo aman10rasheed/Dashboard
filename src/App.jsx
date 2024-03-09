@@ -1,6 +1,6 @@
 import NavBar from "./components/NavBar";
 import { TopLayer } from "./components/TopLayer";
-import Vehicles from "./pages/Vehicles";
+import Vehicles from "./pages/VehcilesModule/Vehicles";
 
 // import Vehicles from "./pages/Vehicles";
 

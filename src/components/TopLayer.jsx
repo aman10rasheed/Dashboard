@@ -10,7 +10,7 @@ export const TopLayer = () => {
         <div className="relative flex items-center">
           <input
             type="text"
-            placeholder="Search for routes, checkpoint etc"
+            placeholder="Search Here"
             className="border-2 rounded-md px-10 py-4 text-left w-[30rem]"
           />
           <div className="absolute inset-y-0 left-0 pl-3 flex items-center text-green-500">
